@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Iscores"]
+	path = Iscores
+	url = https://github.com/krystynagrzesiak/iscores
 [submodule "miceDRF"]
 	path = miceDRF
 	url = https://github.com/krystynagrzesiak/micedrf
